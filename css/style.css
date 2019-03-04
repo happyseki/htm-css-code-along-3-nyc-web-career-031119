@@ -34,7 +34,7 @@ figcaption {
   font-family: 'Clicker Script', cursive;
 }
 
-#details a:link {
+#details a:link, #details a:visited {
   color: balck;
   text-decoration: none;
 }

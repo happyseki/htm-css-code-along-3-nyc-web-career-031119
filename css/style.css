@@ -38,3 +38,8 @@ figcaption {
   color: balck;
   text-decoration: none;
 }
+
+#details a:hover {
+  color: balck;
+  text-decoration: underline;
+}

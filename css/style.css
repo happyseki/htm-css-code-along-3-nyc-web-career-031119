@@ -33,3 +33,8 @@ figcaption {
 #logo h2 {
   font-family: 'Clicker Script', cursive;
 }
+
+#details a:link {
+  color: balck;
+  text-decoration: none;
+}

@@ -43,3 +43,8 @@ figcaption {
   color: balck;
   text-decoration: underline;
 }
+
+#details a:active {
+  color: red;
+  
+}
